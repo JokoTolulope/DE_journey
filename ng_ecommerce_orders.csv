@@ -1,0 +1,51 @@
+order_id,customer_id,customer_name,city,state,product_category,product_name,quantity,unit_price_ngn,total_amount_ngn,payment_method,order_status,order_date,delivery_date
+NG-10001,CUST-4421,Adaeze Okonkwo,Lagos,Lagos,Electronics,Bluetooth Earbuds,1,18500,18500,card,completed,1/3/2024,1/6/2024
+NG-10002,CUST-2287,Emeka Nwosu,Abuja,FCT,Fashion,Men's Agbada Set,2,45000,90000,transfer,completed,1/3/2024,1/7/2024
+NG-10003,CUST-3301,Ngozi Eze,Port Harcourt,Rivers,Home & Kitchen,Non-stick Cookware Set,1,32000,32000,card,completed,1/4/2024,1/8/2024
+NG-10004,CUST-5512,Tunde Bakare,Ibadan,Oyo,Electronics,Android Smartphone,1,85000,85000,card,pending,1/4/2024,
+NG-10005,CUST-1193,Fatima Aliyu,Kano,Kano,Fashion,Women's Hijab Collection,3,7500,22500,transfer,completed,1/5/2024,1/9/2024
+NG-10006,CUST-6634,Chukwuemeka Obi,Enugu,Enugu,Electronics,Laptop Stand,1,12000,12000,card,completed,1/5/2024,1/10/2024
+NG-10007,CUST-7745,Aisha Musa,Kaduna,Kaduna,Beauty & Health,Skincare Bundle,2,15000,30000,cash,failed,1/6/2024,
+NG-10008,CUST-8856,Oluwaseun Adeyemi,Lagos,Lagos,Electronics,Wireless Keyboard,1,22000,22000,card,completed,1/6/2024,1/9/2024
+NG-10009,CUST-9967,Chiamaka Igwe,Owerri,Imo,Home & Kitchen,Air Fryer,1,48000,48000,transfer,completed,1/7/2024,1/11/2024
+NG-10010,CUST-1020,Babatunde Fashola,Lagos,Lagos,Fashion,Corporate Blazer,1,38000,38000,card,completed,1/7/2024,1/10/2024
+NG-10011,CUST-2031,Hauwa Bello,Maiduguri,Borno,Home & Kitchen,Generator (2.5KVA),1,195000,195000,transfer,pending,1/8/2024,
+NG-10012,CUST-3042,Obinna Okeke,Onitsha,Anambra,Electronics,Power Bank 20000mAh,2,14500,29000,card,completed,1/8/2024,1/12/2024
+NG-10013,CUST-4053,Yetunde Abiodun,Abeokuta,Ogun,Beauty & Health,Hair Extension Pack,3,9000,27000,transfer,completed,1/9/2024,1/13/2024
+NG-10014,CUST-5064,Musa Tanko,Jos,Plateau,Electronics,Solar Charge Controller,1,42000,42000,card,completed,1/9/2024,1/14/2024
+NG-10015,CUST-6075,Blessing Okafor,Uyo,Akwa Ibom,Fashion,Women's Ankara Dress,2,18000,36000,cash,failed,1/10/2024,
+NG-10016,CUST-7086,Segun Awolowo,Ile-Ife,Osun,Home & Kitchen,Standing Fan,1,28000,28000,card,completed,1/10/2024,1/14/2024
+NG-10017,CUST-8097,Zainab Umar,Sokoto,Sokoto,Fashion,Men's Kaftan,2,22000,44000,transfer,completed,1/11/2024,1/16/2024
+NG-10018,CUST-9108,Ifeanyi Dike,Asaba,Delta,Electronics,CCTV Camera Kit,1,75000,75000,card,pending,1/11/2024,
+NG-10019,CUST-1019,Amaka Okafor,Enugu,Enugu,Beauty & Health,Electric Shaver,1,16500,16500,card,completed,1/12/2024,1/16/2024
+NG-10020,CUST-2030,Tobi Adewale,Lagos,Lagos,Electronics,Smart TV 43inch,1,285000,285000,transfer,completed,1/12/2024,1/15/2024
+NG-10021,CUST-3041,Nkechi Osu,Calabar,Cross River,Home & Kitchen,Water Dispenser,1,55000,55000,card,completed,1/13/2024,1/17/2024
+NG-10022,CUST-4052,Ibrahim Garba,Katsina,Katsina,Fashion,Children's School Uniform,4,6500,26000,cash,completed,1/13/2024,1/18/2024
+NG-10023,CUST-5063,Chidinma Nwosu,Aba,Abia,Electronics,Inverter Battery,1,120000,120000,transfer,failed,1/14/2024,
+NG-10024,CUST-6074,Rotimi Adeleke,Akure,Ondo,Home & Kitchen,Pressure Cooker,1,24000,24000,card,completed,1/14/2024,1/18/2024
+NG-10025,CUST-7085,Hadiza Sule,Zaria,Kaduna,Beauty & Health,Body Lotion Set,5,4500,22500,transfer,completed,1/15/2024,1/19/2024
+NG-10026,CUST-8096,Emeka Eze,Lagos,Lagos,Electronics,Ring Light + Tripod,1,19500,19500,card,completed,1/15/2024,1/18/2024
+NG-10027,CUST-9107,Folake Ojo,Ibadan,Oyo,Fashion,Women's Office Shoes,2,12500,25000,card,pending,1/16/2024,
+NG-10028,CUST-1018,Uche Obi,Owerri,Imo,Home & Kitchen,Chest Freezer,1,165000,165000,transfer,completed,1/16/2024,1/20/2024
+NG-10029,CUST-2029,Abdullahi Musa,Kano,Kano,Electronics,Rechargeable Fan,1,35000,35000,card,completed,1/17/2024,1/21/2024
+NG-10030,CUST-3040,Sade Adeyemi,Lagos,Lagos,Beauty & Health,Makeup Brush Set,1,11000,11000,transfer,completed,1/17/2024,1/20/2024
+NG-10031,CUST-4051,Chidi Okoro,Port Harcourt,Rivers,Electronics,Laptop Bag,2,8500,17000,card,completed,1/18/2024,1/22/2024
+NG-10032,CUST-5062,Mariam Lawal,Ilorin,Kwara,Fashion,Men's Native Wear,1,55000,55000,transfer,completed,1/18/2024,1/23/2024
+NG-10033,CUST-6073,Ejike Nnamdi,Enugu,Enugu,Home & Kitchen,Microwave Oven,1,78000,78000,card,failed,1/19/2024,
+NG-10034,CUST-7084,Taiwo Ogunleye,Abeokuta,Ogun,Electronics,Bluetooth Speaker,1,25000,25000,card,completed,1/19/2024,1/23/2024
+NG-10035,CUST-8095,Hauwa Abdullahi,Abuja,FCT,Beauty & Health,Perfume Gift Set,2,35000,70000,transfer,completed,1/20/2024,1/24/2024
+NG-10036,CUST-9106,Kenechukwu Eze,Onitsha,Anambra,Home & Kitchen,Electric Iron,1,9500,9500,cash,completed,1/20/2024,1/24/2024
+NG-10037,CUST-1017,Lara Benson,Lagos,Lagos,Electronics,Wireless Mouse,2,7500,15000,card,completed,1/21/2024,1/24/2024
+NG-10038,CUST-2028,Abubakar Sadiq,Kaduna,Kaduna,Fashion,Women's Gele Set,1,28000,28000,transfer,pending,1/21/2024,
+NG-10039,CUST-3039,Nneka Obiora,Aba,Abia,Home & Kitchen,Blender,1,18000,18000,card,completed,1/22/2024,1/26/2024
+NG-10040,CUST-4050,Dotun Akinwale,Lagos,Lagos,Electronics,Smart Watch,1,62000,62000,card,completed,1/22/2024,1/25/2024
+NG-10041,CUST-5061,Fatimah Yusuf,Kano,Kano,Beauty & Health,Natural Hair Products,3,8000,24000,transfer,completed,1/23/2024,1/27/2024
+NG-10042,CUST-6072,Biodun Fagbemi,Akure,Ondo,Fashion,Men's Leather Belt,2,6000,12000,card,completed,1/23/2024,1/27/2024
+NG-10043,CUST-7083,Precious Okonkwo,Warri,Delta,Electronics,Extension Cable,3,4500,13500,cash,failed,1/24/2024,
+NG-10044,CUST-8094,Nnamdi Okafor,Enugu,Enugu,Home & Kitchen,Gas Cooker,1,145000,145000,transfer,completed,1/24/2024,1/28/2024
+NG-10045,CUST-9105,Aminat Bello,Lagos,Lagos,Fashion,Children's Party Dress,2,14000,28000,card,completed,1/25/2024,1/29/2024
+NG-10046,CUST-1016,Tochukwu Ibe,Onitsha,Anambra,Electronics,USB-C Hub,1,16000,16000,card,completed,1/25/2024,1/29/2024
+NG-10047,CUST-2027,Khadija Aliyu,Abuja,FCT,Beauty & Health,Facial Steamer,1,22000,22000,transfer,completed,1/26/2024,1/30/2024
+NG-10048,CUST-3038,Seun Bankole,Ibadan,Oyo,Home & Kitchen,Washing Machine,1,320000,320000,transfer,pending,1/26/2024,
+NG-10049,CUST-4049,Chinonso Obi,Owerri,Imo,Electronics,Keyboard + Mouse Combo,1,18500,18500,card,completed,1/27/2024,1/31/2024
+NG-10050,CUST-5060,Yusuf Danjuma,Kaduna,Kaduna,Fashion,Men's Sneakers,1,32000,32000,transfer,completed,1/27/2024,1/31/2024
