@@ -8,7 +8,7 @@
 
 This project simulates the first step towards data engineering; **ingesting and filtering raw order data** from a Nigerian e-commerce platform.
 
-The script reads a dataset of 50 customer orders placed across major Nigerian cities, filters them by status, cross-checks data quality, and generates a business summary — total revenue, order distribution by city, and flagged data issues.
+The script reads a dataset of 50 customer orders placed across major Nigerian cities, filters them by status, cross-checks data quality, and generates a business summary-total revenue, order distribution by city, and flagged data issues.
 
 ---
 
