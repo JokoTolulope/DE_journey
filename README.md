@@ -1,6 +1,6 @@
 # 🇳🇬 Nigerian E-Commerce Order Pipeline
 
-> First project in my data engineering journey. Working with real data to build practical Python skills alongside my existing SQL and database development background. 
+> First project as i build towards data engineering, working with real data in Python alongside my existing SQL and database development background. 
 
 ---
 
@@ -129,7 +129,7 @@ DE_journey/
 
 ---
 
-## 🗺 What's Next — Day 02
+## Next Steps
 
 Working with real data formats used in production pipelines:
 - Converting this CSV dataset to **JSON** and **Parquet** formats
