@@ -1,7 +1,6 @@
-# 🇳🇬 Nigerian E-Commerce Order Pipeline — Day 01
+# 🇳🇬 Nigerian E-Commerce Order Pipeline
 
-> Day 1 of my 90-day Data Engineering challenge.  
-> Building real pipelines, with real data, from scratch.
+> First project in my data engineering journey. Working with real data to build practical Python skills alongside my existing SQL and database development background. 
 
 ---
 
