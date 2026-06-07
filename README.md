@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project simulates the first stage of a real data pipeline — **ingesting and filtering raw order data** from a Nigerian e-commerce platform.
+This project simulates the first step towards data engineering — **ingesting and filtering raw order data** from a Nigerian e-commerce platform.
 
 The script reads a dataset of 50 customer orders placed across major Nigerian cities, filters them by status, cross-checks data quality, and generates a business summary — total revenue, order distribution by city, and flagged data issues.
 
@@ -18,7 +18,7 @@ The script reads a dataset of 50 customer orders placed across major Nigerian ci
 **File:** `ng_ecommerce_orders.csv`  
 **Records:** 50 orders  
 **Period:** January 2024  
-**Source:** Original dataset created for this project
+**Source:** generated real-world dataset created for this project
 
 | Column | Description |
 |---|---|
@@ -67,20 +67,20 @@ Total completed orders: 39
   NG-10003 | Ngozi Eze | Port Harcourt | ₦32,000
   ...
 
-⚠ Completed orders missing a delivery date: 0
+ Completed orders missing a delivery date: 0
 
-📦 Completed orders by city:
+ Completed orders by city:
   Lagos: 9 orders
   Enugu: 4 orders
   Abuja: 3 orders
   ...
 
-💰 Total revenue from completed orders: ₦2,345,500
+ Total revenue from completed orders: ₦2,345,500
 ```
 
 ---
 
-## 🧠 Key Concepts Applied
+##  Key Concepts Applied
 
 - **CSV ingestion** with `csv.DictReader` — parsing raw files into structured dictionaries
 - **Filtering** with conditional logic across a dataset
@@ -138,12 +138,4 @@ Working with real data formats used in production pipelines:
 - Writing a Python script that handles all three formats
 
 ---
-
-## 👤 About This Project
-
-This is **Day 1 of a 90-day self-directed Data Engineering challenge** — building toward a mid-level data engineering role by August 2026.
-
-Every day: a real task, a real output, pushed to GitHub.
-
-Follow the journey → [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
 
